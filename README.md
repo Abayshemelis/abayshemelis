@@ -32,13 +32,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs,java,python" />
 </p>
 
-### 🛢️ Database & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,linux" />
-</p>
-
----
-
 ## 🔐 Security Focus
 - Secure Authentication (JWT, Hashing)
 - Input Validation
@@ -49,10 +42,6 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abayshemelis&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abayshemelis&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abayshemelis&theme=tokyonight&hide_border=true"/>
